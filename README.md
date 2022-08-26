@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm I'm Muhammed &nbsp; <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"</h1>
+<h1 align="center">Hi there, I'm Muhammed &nbsp; <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"</h1>
 <h3 align="center">Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
