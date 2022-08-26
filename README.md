@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-msaid.1996@hotmail.com
+<a href="msaid.1996@hotmail.com" target="_blank" rel="noreferrer"> <img src="https://www.lahoralatina.net/apple-mail-icon" width="40" height="40"/> </a>
 </p>
 
 <!--
