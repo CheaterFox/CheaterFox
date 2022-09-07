@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Muhammed &nbsp; <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"</h1>
 <p align="center"> 
-<img alt="Java Logo" src="https://github.com/CheaterFox/HTML-CSS/blob/main/java-love/pic.png"/>
+<img alt="Java Logo" src="https://github.com/CheaterFox/HTML-CSS/blob/main/Java_Love/pic.png"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
