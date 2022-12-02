@@ -1,15 +1,6 @@
-<h1 align="center">Hi there; &nbsp; <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75"</h1>
-<p align="center"> 
-
-<p align=center>
-
-  <img src= "https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%237E3ACE&size=24&duration=6420&center=true&vCenter=true&width=999&height=60&lines=I'm+Muhammed+ÖĞÜT;I'm+a+Junior+Software+Developer;Studying+java+spring+and+front-end+design;I+like+to+create%2C+adapt+and+reformulate"/>
-
 <p>
-
 ​
-
-<img alt="Java Logo" src="https://github.com/CheaterFox/HTML-CSS/blob/main/Java_Love/pic.png"/>
+<img alt="Java Logo" src="https://github.com/CheaterFox/HTML-CSS/blob/main/Java_Love/Java.gif"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
