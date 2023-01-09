@@ -5,7 +5,7 @@
 
 ## Contact
 
-Feel free to contact me through my GitHub profile or at [your.email@example.com](mailto:your.email@example.com).
+Feel free to contact me through my GitHub profile or at [msaid.1996@hotmail.com](mailto:msaid.1996@hotmail.com).
 
 <!--
 **CheaterFox/CheaterFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
