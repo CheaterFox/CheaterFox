@@ -1,12 +1,11 @@
 <p>
 ​
-<img alt="Java Logo" src="https://github.com/CheaterFox/HTML-CSS/blob/main/Java_Love/Java.gif"/>
+<img alt="Java Logo" src="https://github.com/CheaterFox/HTML-CSS/blob/main/Java_Love/Springjv.png"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-msaid.1996@hotmail.com
-</p>
+## Contact
+
+Feel free to contact me through my GitHub profile or at [your.email@example.com](mailto:your.email@example.com).
 
 <!--
 **CheaterFox/CheaterFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
