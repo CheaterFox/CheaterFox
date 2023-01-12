@@ -1,8 +1,6 @@
-<p>
-​
-<img alt="Java Logo" src="https://github.com/CheaterFox/HTML-CSS/blob/main/Java_Love/Springjv.png"/>
-</p>
-
+# Muhammed Said ÖĞÜT
+## Java-Spring Backend Developer
+Hello, I'm Muhammed Said Öğüt, a backend developer with expertise in Java and the Spring Framework. I have experience specifically in Java Spring MVC and RESTful web services.
 ## Contact
 
 Feel free to contact me through my GitHub profile or at [msaid.1996@hotmail.com](mailto:msaid.1996@hotmail.com).
