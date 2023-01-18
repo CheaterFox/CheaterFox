@@ -1,6 +1,6 @@
 # Muhammed Said ÖĞÜT
 ## Java-Spring Backend Developer
-Hello, I'm Muhammed Said Öğüt, a backend developer with expertise in Java and the Spring Framework. I have experience specifically in Java Spring MVC and RESTful web services. Currrently i am working on Reactive Programming.
+Hello, I'm Muhammed Said Öğüt, a backend developer with expertise in Java and the Spring Framework. I have experience specifically in Java Spring MVC and RESTful web services. Currently i am working on Reactive Programming.
 ## Contact
 
 Feel free to contact me through my GitHub profile or at [msaid.1996@hotmail.com](mailto:msaid.1996@hotmail.com).
